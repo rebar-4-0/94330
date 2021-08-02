@@ -11,13 +11,23 @@ Such complexities, combined with the ongoing pandemic, provide a need for digita
 
 "Rebar 4.0: Supply chain made smarter" embraces a collaborative approach from all stakeholders in the reinforcing steel value chain to digitise the whole process. It enables digital compliance checking and delivers a true digital twin representation of the built environment for handover.
 
-## Outcomes
+## Objectives
 
+Our objective is to create a holistic digital twin of the built assets with accurate rebar information being traced from as-designed 3D BIM through to manufacturing, fabrication and installation, to as-built BIM models for handover. 
+
+Thus, we are assessing the feasibility of:
+1. The use of 3D BIM designs for integration with rebar specification for fabrication;
+1. Further integration with automated robotic welding and off-site prefabrication;
+1. Tracking of materials and site installation via QR codes in the cloud;
+1. Integration of tracked information back into the 3D BIM thus creating an on-the-fly 4D progress visualisation and eventual as-built models.
 
 ## Focus
+
+The main focus areas are the feasibility of cloud integration between [BHoM by BuroHappold](https://bhom.xyz/), [3D Repo API](https://3drepo.com/api/), [CARES Cloud](https://www.cares.cloud/) and [Rebartek automated welding robots](https://rebartek.com/) prefabricating FasterFix Modular Rebar system by Midland Steel with the benefit of evidence-based BIM data exchange between all. Apart from establishing the feasibility of our proposal, we also plan early PoC activities to demonstrate the soundness and real-life applicability of our chosen approach that can be replicated throughout CARES members.
 
 ## Partners
 * [UK CARES](https://www.ukcares.com/): UK Certification Authority For Reinforcing Steel
 * [Buro Happold](https://www.burohappold.com/): UK's leading structural engineering firm
 * [Midland Steel](https://midlandsteelreinforcement.co.uk/): Steel reinforcement supplier
 * [3D Repo](https://3drepo.com): The Digital Twin platform for BIM data
+* [Rebartek](https://rebartek.com/): Robotic rebar cage prefabricatiors
