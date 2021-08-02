@@ -2,7 +2,7 @@
 
 ![rebar4 0](https://user-images.githubusercontent.com/3008807/127870587-66bf004b-3698-4d50-991f-e686dc54d194.png)
 
-<b>Rebar 4.0: Supply chain made smarter</b> project is part-funded by [UK Research and Innovation funding No. 94330](https://gtr.ukri.org/projects?ref=94330#/tabOverview) under the <b>Manufacturing made smarter: digital supply chain, feasibility studies</b> competition.
+<b>Rebar 4.0: Supply chain made smarter</b> project is part-funded by [UK Research and Innovation funding No. 94330](https://gtr.ukri.org/projects?ref=94330#/tabOverview) under the [Manufacturing made smarter: digital supply chain, feasibility studies](https://apply-for-innovation-funding.service.gov.uk/competition/649/overview) competition.
 
 ## Description
 The main objectives of the UK Government's Construction Sector Deal are to build better homes and infrastructure projects that are more efficient, smarter and safer while reducing emissions and providing cleaner air at the same time. Over the past few years, some of these requirements have already been successfully addressed thanks to the application of the very latest advancements in collaborative 3D design and digital data management known as Building Information Modelling (BIM) across engineering and construction companies in the UK. However, the remainder of the supply chain which includes subcontractors, manufacturers, fabricators and trades people are still relying mostly on paper-based processes and 2D engineering drawings to deliver projects that have already been designed in 3D. 
@@ -29,7 +29,7 @@ The main focus areas are the feasibility of cloud integration between [BHoM by B
 
 ![rebartek](https://user-images.githubusercontent.com/3008807/127871154-ca50408a-2b7d-4810-8ad6-d35883387d71.png)
 
-## Partners
+## Project Partners
 * [UK CARES](https://www.ukcares.com/): UK Certification Authority For Reinforcing Steel
 * [Buro Happold](https://www.burohappold.com/): UK's leading structural engineering firm
 * [Midland Steel](https://midlandsteelreinforcement.co.uk/): Steel reinforcement supplier
