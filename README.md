@@ -34,4 +34,4 @@ The main focus areas are the feasibility of cloud integration between [BHoM by B
 * [Buro Happold](https://www.burohappold.com/): UK's leading structural engineering firm
 * [Midland Steel](https://midlandsteelreinforcement.co.uk/): Steel reinforcement supplier
 * [3D Repo](https://3drepo.com): The Digital Twin platform for BIM data
-* [Rebartek](https://rebartek.com/): Robotic rebar cage prefabricatiors
+* [Rebartek](https://rebartek.com/): Robotic rebar cage prefabricators
