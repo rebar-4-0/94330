@@ -1,5 +1,7 @@
 # 94330: Rebar 4.0: Supply chain made smarter
 
+![rebar4 0](https://user-images.githubusercontent.com/3008807/127870587-66bf004b-3698-4d50-991f-e686dc54d194.png)
+
 <b>Rebar 4.0: Supply chain made smarter</b> project is part-funded by [UK Research and Innovation funding No. 94330](https://gtr.ukri.org/projects?ref=94330#/tabOverview) under the <b>Manufacturing made smarter: digital supply chain, feasibility studies</b> competition.
 
 ## Description
@@ -24,6 +26,8 @@ Thus, we are assessing the feasibility of:
 ## Focus
 
 The main focus areas are the feasibility of cloud integration between [BHoM by BuroHappold](https://bhom.xyz/), [3D Repo API](https://3drepo.com/api/), [CARES Cloud](https://www.cares.cloud/) and [Rebartek automated welding robots](https://rebartek.com/) prefabricating FasterFix Modular Rebar system by Midland Steel with the benefit of evidence-based BIM data exchange between all. Apart from establishing the feasibility of our proposal, we also plan early PoC activities to demonstrate the soundness and real-life applicability of our chosen approach that can be replicated throughout CARES members.
+
+![rebartek](https://user-images.githubusercontent.com/3008807/127871154-ca50408a-2b7d-4810-8ad6-d35883387d71.png)
 
 ## Partners
 * [UK CARES](https://www.ukcares.com/): UK Certification Authority For Reinforcing Steel
