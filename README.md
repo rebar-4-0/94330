@@ -1,6 +1,6 @@
 # 94330: Rebar 4.0: Supply chain made smarter
 
-![rebar4 0](https://user-images.githubusercontent.com/1438332/129012734-53c51292-5744-4230-bbce-0f00858e77fa.png)
+![rebar4 0](https://user-images.githubusercontent.com/1438332/129167084-1f09cf81-8843-4582-b70b-abf062fdaeac.png)
 
 <b>Rebar 4.0: Supply chain made smarter</b> project is part-funded by [UK Research and Innovation funding No. 94330](https://gtr.ukri.org/projects?ref=94330#/tabOverview) under the [Manufacturing made smarter: digital supply chain, feasibility studies](https://apply-for-innovation-funding.service.gov.uk/competition/649/overview) competition.
 
